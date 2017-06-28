@@ -6,4 +6,8 @@
 
 3、选择下载好的文件夹，点击确认。
 
+![image](https://github.com/hzjis/plugin/blob/master/readme/111.png)
+
+![image](https://github.com/hzjis/plugin/blob/master/readme/222.png)
+
 浏览器右上角出现扩展程序图标
